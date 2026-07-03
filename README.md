@@ -1,5 +1,5 @@
 CURRENTLY UNDER WORK
-a lot of this project is vibe coded (i am using this as an opportunity to learn new things)
+(a lot of this project is vibe coded (i am using this as an opportunity to learn new things)
 
 # 🌅 CircadianRGB
 
