@@ -1,0 +1,9 @@
+name: Sakura
+
+gpu:
+  color: [255,120,175]
+
+fans:
+  color: [255,190,225]
+
+brightness: 92

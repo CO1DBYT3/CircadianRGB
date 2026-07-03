@@ -1,0 +1,29 @@
+transition:
+  duration: 120
+  fps: 30
+
+brightness:
+  max: 92        # avoids your motherboard's 100% white flicker
+  min: 28
+
+zones:
+  gpu: JRAINBOW1
+  fans: JRAINBOW2
+
+themes:
+
+  sakura:
+
+    gpu:
+      color: [255,120,175]
+
+    fans:
+      color: [255,190,225]
+
+  crimson:
+
+    gpu:
+      color: [145,22,40]
+
+    fans:
+      color: [105,12,24]
